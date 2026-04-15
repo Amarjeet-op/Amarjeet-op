@@ -1,11 +1,6 @@
 <div align="center">
 
-```
-        ━━━━━━━━━━━━━━━━━━━━
-          अहं ब्रह्मास्मि
-          I am the infinite.
-        ━━━━━━━━━━━━━━━━━━━━
-```
+<img src="./header-mantra.svg" alt="अहं ब्रह्मास्मि — I am the infinite." width="480">
 
 # Amarjeet Anand
 
@@ -13,9 +8,9 @@
 
 **Software Development Engineer · Cloud Architect · Seeker**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeet-anand)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B35.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-eta-gules-15.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amarjeet-op)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B35.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ishaamar.advait@gmail.com)
 
 </div>
@@ -24,7 +19,7 @@
 
 <div align="center">
 
-> *"Tat Tvam Asi — Thou art That."
+> *"Tat Tvam Asi — Thou art That."*
 > *The Atman in me recognizes the Atman in every line of code, every system, every problem solved.*
 
 </div>
@@ -114,7 +109,7 @@ I am a **Software Development Engineer at IBM**, Bengaluru — where I architect
 
 A full-stack guardian system. One tap of SOS triggers simultaneous writes to Firebase Realtime DB, Firestore, and SMS gateway — all in under 500ms. Fault-tolerant, multi-region, offline-resilient. Built so no one is ever truly alone on the road.
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://travel-app-one-theta.vercel.app/)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 ---
 
@@ -123,7 +118,7 @@ A full-stack guardian system. One tap of SOS triggers simultaneous writes to Fir
 
 An ensemble ML pipeline that thinks like a diagnostician. 85%+ diagnostic accuracy. Inference latency under 100ms. Feature selection and cross-validation pipelines that make it viable for real-time clinical decisions. Code in service of life.
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Amarjeet-op/E-HealthCare)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 ---
 
@@ -132,7 +127,7 @@ An ensemble ML pipeline that thinks like a diagnostician. 85%+ diagnostic accura
 
 Six sorting algorithms. Three graph traversals. Real-time step-by-step animations. Adjustable speed (10ms–2s), adjustable data size (10–200 elements). Because understanding *how* something works is as sacred as the result itself.
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://algoverse-kappa.vercel.app/)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 ---
 
@@ -144,11 +139,11 @@ Six sorting algorithms. Three graph traversals. Real-time step-by-step animation
 
 <div align="center">
 
-![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=Amarjeet-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=F0E6D3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A96E&icon_color=C9A96E&text_color=F0E6D3)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amarjeet-op&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A96E&fire=FF6B35&currStreakLabel=C9A96E)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A96E&fire=FF6B35&currStreakLabel=C9A96E)
 
-![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Amarjeet-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A96E&text_color=F0E6D3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A96E&text_color=F0E6D3)
 
 </div>
 
@@ -200,7 +195,7 @@ Six sorting algorithms. Three graph traversals. Real-time step-by-step animation
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23FF6B35.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks%20%23Rank%2030-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amarjeet-anand)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks%20%23Rank%2030-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 [![Email](https://img.shields.io/badge/Write%20to%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ishaamar.advait@gmail.com)
 
 </div>
@@ -209,17 +204,9 @@ Six sorting algorithms. Three graph traversals. Real-time step-by-step animation
 
 <div align="center">
 
-```
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  सर्वे भवन्तु सुखिनः
-  May all beings be happy.
-  May all systems have 99.9% uptime.
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-           शान्तिः शान्तिः शान्तिः
-```
+<img src="./footer-mantra.svg" alt="सर्वे भवन्तु सुखिनः — शान्तिः शान्तिः शान्तिः" width="560">
 
 *Profile views:*
-![Profile Views](https://komarev.com/ghpvc/?username=Amarjeet-op&color=C9A96E&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=C9A96E&style=flat-square)
 
 </div>
