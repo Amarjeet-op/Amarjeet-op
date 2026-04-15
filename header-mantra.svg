@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 148" width="600">
+
+  <!-- OM symbol -->
+  <text x="300" y="26" text-anchor="middle"
+        font-family="Georgia, 'Palatino Linotype', serif"
+        font-size="16" fill="#C4944A" opacity="0.55" letter-spacing="1">ॐ</text>
+
+  <!-- top decorative rule with diamond -->
+  <line x1="70" y1="42" x2="273" y2="42" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+  <polygon points="300,35 307,42 300,49 293,42" fill="#C4944A" opacity="0.45"/>
+  <line x1="327" y1="42" x2="530" y2="42" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+
+  <!-- Sanskrit main text -->
+  <text x="300" y="90"
+        text-anchor="middle"
+        font-family="'Noto Serif Devanagari', 'Mangal', 'Kokila', Georgia, serif"
+        font-size="30"
+        fill="#C4944A"
+        opacity="0.92"
+        letter-spacing="1.5">अहं ब्रह्मास्मि</text>
+
+  <!-- English subtitle -->
+  <text x="300" y="115"
+        text-anchor="middle"
+        font-family="Georgia, 'Palatino Linotype', Palatino, 'Book Antiqua', serif"
+        font-size="13"
+        font-style="italic"
+        fill="#A8804E"
+        opacity="0.75"
+        letter-spacing="3">I am the infinite.</text>
+
+  <!-- bottom decorative rule with diamond -->
+  <line x1="70" y1="132" x2="273" y2="132" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+  <polygon points="300,125 307,132 300,139 293,132" fill="#C4944A" opacity="0.45"/>
+  <line x1="327" y1="132" x2="530" y2="132" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+
+</svg>
