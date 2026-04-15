@@ -2,10 +2,10 @@
 
 ```
   
-  ━━━━━━━━━━━━━━━━━━━━
-  अहं ब्रह्मास्मि
-  I am the infinite.
-  ━━━━━━━━━━━━━━━━━━━━
+                                               ━━━━━━━━━━━━━━━━━━━━
+                                                    अहं ब्रह्मास्मि
+                                                I am the infinite.
+                                               ━━━━━━━━━━━━━━━━━━━━
 ```
 
 # Amarjeet Anand
@@ -172,17 +172,17 @@ Six sorting algorithms. Three graph traversals. Real-time step-by-step animation
 ```
         ┌─────────────────────────────────────────┐
         │                                         │
-        │   Neti Neti — Not this, not this.        │
-        │   Debug until only truth remains.        │
+        │   Neti Neti — Not this, not this.       │
+        │   Debug until only truth remains.       │
         │                                         │
-        │   Viveka — discrimination.               │
-        │   Know the good solution from the fast.  │
+        │   Viveka — discrimination.              │
+        │   Know the good solution from the fast. │
         │                                         │
-        │   Karma Yoga — selfless action.          │
-        │   Write code that serves. Ship. Repeat.  │
+        │   Karma Yoga — selfless action.         │
+        │   Write code that serves. Ship. Repeat. │
         │                                         │
-        │   Brahmacharya — focused energy.         │
-        │   One problem at a time. Full presence.  │
+        │   Brahmacharya — focused energy.        │
+        │   One problem at a time. Full presence. │
         │                                         │
         └─────────────────────────────────────────┘
 ```
