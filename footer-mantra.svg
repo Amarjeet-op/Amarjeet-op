@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700">
+
+  <!-- top decorative rule with diamond -->
+  <line x1="40" y1="18" x2="323" y2="18" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+  <polygon points="350,11 357,18 350,25 343,18" fill="#C4944A" opacity="0.45"/>
+  <line x1="377" y1="18" x2="660" y2="18" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+
+  <!-- Main Sanskrit blessing -->
+  <text x="350" y="62"
+        text-anchor="middle"
+        font-family="'Noto Serif Devanagari', 'Mangal', 'Kokila', Georgia, serif"
+        font-size="26"
+        fill="#C4944A"
+        opacity="0.92"
+        letter-spacing="1">सर्वे भवन्तु सुखिनः</text>
+
+  <!-- English line 1 -->
+  <text x="350" y="89"
+        text-anchor="middle"
+        font-family="Georgia, 'Palatino Linotype', Palatino, 'Book Antiqua', serif"
+        font-size="13"
+        font-style="italic"
+        fill="#A8804E"
+        opacity="0.78"
+        letter-spacing="2">May all beings be happy.</text>
+
+  <!-- English line 2 — slightly smaller and softer -->
+  <text x="350" y="110"
+        text-anchor="middle"
+        font-family="Georgia, 'Palatino Linotype', Palatino, serif"
+        font-size="11"
+        font-style="italic"
+        fill="#9A7540"
+        opacity="0.58"
+        letter-spacing="1.5">May all systems have 99.9% uptime.</text>
+
+  <!-- bottom decorative rule with diamond -->
+  <line x1="40" y1="128" x2="323" y2="128" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+  <polygon points="350,121 357,128 350,135 343,128" fill="#C4944A" opacity="0.45"/>
+  <line x1="377" y1="128" x2="660" y2="128" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+
+  <!-- Shanti — spaced, smaller, softer gold -->
+  <text x="350" y="166"
+        text-anchor="middle"
+        font-family="'Noto Serif Devanagari', 'Mangal', 'Kokila', Georgia, serif"
+        font-size="17"
+        fill="#C4944A"
+        opacity="0.68"
+        letter-spacing="10">शान्तिः  शान्तिः  शान्तिः</text>
+
+</svg>
