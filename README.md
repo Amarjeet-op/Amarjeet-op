@@ -206,7 +206,6 @@ Six sorting algorithms. Three graph traversals. Real-time step-by-step animation
 
 <img src="./footer-mantra.svg" alt="सर्वे भवन्तु सुखिनः — शान्तिः शान्तिः शान्तिः" width="560">
 
-*Profile views:*
-![Profile Views](https://komarev.com/ghpvc/?username=Amarjeet-op&color=C9A96E&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Amarjeet-op&color=C9A96E&style=flat-square) · *Profile views*
 
 </div>
