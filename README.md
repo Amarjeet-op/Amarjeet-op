@@ -101,12 +101,16 @@ philosophy: "Code is karma — every function has its consequence"
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarjeet-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjeet-op&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&curr=58a6ff&sideLabels=c9d1d9" alt="GitHub Streak" />
+  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=Amarjeet-op&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjeet-op&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Amarjeet-op&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://gh-readme-stats.vercel.app/graph?username=Amarjeet-op&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
