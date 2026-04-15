@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" width="700">
+
+  <!-- top decorative rule -->
+  <line x1="40" y1="20" x2="660" y2="20" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+
+  <!-- Title -->
+  <text x="350" y="50"
+        text-anchor="middle"
+        font-family="Georgia, 'Palatino Linotype', Palatino, serif"
+        font-size="16"
+        font-weight="bold"
+        fill="#C4944A"
+        opacity="0.85"
+        letter-spacing="2">THE INNER PATH — PHILOSOPHY I CODE BY</text>
+
+  <!-- Box top -->
+  <rect x="80" y="70" width="540" height="180" fill="none" stroke="#C4944A" stroke-width="1" opacity="0.4" rx="3"/>
+
+  <!-- Line 1 -->
+  <text x="100" y="100"
+        font-family="Georgia, serif"
+        font-size="13"
+        fill="#C4944A"
+        opacity="0.9">Neti Neti — Not this, not this.</text>
+  <text x="500" y="100"
+        text-anchor="end"
+        font-family="Georgia, serif"
+        font-size="12"
+        fill="#A8804E"
+        opacity="0.8">Debug until only truth remains.</text>
+
+  <!-- Divider -->
+  <line x1="95" y1="115" x2="605" y2="115" stroke="#C4944A" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Line 2 -->
+  <text x="100" y="135"
+        font-family="Georgia, serif"
+        font-size="13"
+        fill="#C4944A"
+        opacity="0.9">Viveka — discrimination.</text>
+  <text x="500" y="135"
+        text-anchor="end"
+        font-family="Georgia, serif"
+        font-size="12"
+        fill="#A8804E"
+        opacity="0.8">Know the good solution from the fast.</text>
+
+  <!-- Divider -->
+  <line x1="95" y1="150" x2="605" y2="150" stroke="#C4944A" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Line 3 -->
+  <text x="100" y="170"
+        font-family="Georgia, serif"
+        font-size="13"
+        fill="#C4944A"
+        opacity="0.9">Karma Yoga — selfless action.</text>
+  <text x="500" y="170"
+        text-anchor="end"
+        font-family="Georgia, serif"
+        font-size="12"
+        fill="#A8804E"
+        opacity="0.8">Write code that serves. Ship. Repeat.</text>
+
+  <!-- Divider -->
+  <line x1="95" y1="185" x2="605" y2="185" stroke="#C4944A" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Line 4 -->
+  <text x="100" y="205"
+        font-family="Georgia, serif"
+        font-size="13"
+        fill="#C4944A"
+        opacity="0.9">Brahmacharya — focused energy.</text>
+  <text x="500" y="205"
+        text-anchor="end"
+        font-family="Georgia, serif"
+        font-size="12"
+        fill="#A8804E"
+        opacity="0.8">One problem at a time. Full presence.</text>
+
+  <!-- Box bottom -->
+  <line x1="80" y1="250" x2="620" y2="250" stroke="#C4944A" stroke-width="0.75" opacity="0.45"/>
+
+</svg>
