@@ -163,23 +163,7 @@ Six sorting algorithms. Three graph traversals. Real-time step-by-step animation
 
 <div align="center">
 
-```
-        ┌─────────────────────────────────────────┐
-        │                                         │
-        │   Neti Neti — Not this, not this.        │
-        │   Debug until only truth remains.        │
-        │                                         │
-        │   Viveka — discrimination.               │
-        │   Know the good solution from the fast.  │
-        │                                         │
-        │   Karma Yoga — selfless action.          │
-        │   Write code that serves. Ship. Repeat.  │
-        │                                         │
-        │   Brahmacharya — focused energy.         │
-        │   One problem at a time. Full presence.  │
-        │                                         │
-        └─────────────────────────────────────────┘
-```
+<img src="./philosophy-box.svg" alt="Philosophy I Code By" width="600">
 
 *I believe the best code, like the best life, is written with full attention — with no residue of the past commit and no anxiety about the next deploy.*
 
